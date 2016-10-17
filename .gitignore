@@ -1,0 +1,8 @@
+packages/*
+FormsCalendar/bin/*
+FormsCalendar/obj/*
+iOS/bin/*
+iOS/obj/*
+Droid/bin/*
+Droid/obj/*
+
